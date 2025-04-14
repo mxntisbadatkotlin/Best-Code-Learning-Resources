@@ -285,3 +285,5 @@ A collection of learning resources for some programming languages. Use the links
 
 ---
 
+Happy Learning - mxnt
+
