@@ -1,6 +1,6 @@
 # Best Code Learning Resources
 
-A collection of learning resources for some programming languages. Use the links below to quickly access the best resources for each language.
+A collection of learning resources for top 27 programming languages. Use the links below to quickly access the best resources for each language.
 
 **Table of Contents**
 
